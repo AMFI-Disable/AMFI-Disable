@@ -1,52 +1,93 @@
-# ✦ amfi-disable
+# AMFI-Disable
 
-Welcome! I'm a developer focusing on systems, terminal applications, browser extensions, and user scripts. I enjoy building highly-optimized utilities, interactive TUI environments, and tools that enhance web experiences.
-
----
-
-## 🏛️ Featured Ecosystems & Projects
-
-### [OmniSuite](https://github.com/amfi-disable/OmniSuite)
-*A high-fidelity digital ecosystem and workstation suite designed for forensic research, strategic case compilation, and analysis.*
-* **OmniDebate**: A strategic research TUI "Digital War Room" built in Python using the **Textual** framework, featuring a cyber-dark custom design system, real-time auditing, and asynchronous data sync.
-* **OmniFormat**: An automated document compiler and formatting processor that coordinates case briefs and ensures layout compliance.
-* **Architecture**: Centrally backed by a shared SQLite database with SQLAlchemy ORM and versioned via Alembic migrations.
-
-### [GeoFS-V3.9 Ecosystem](https://github.com/stars/amfi-disable/lists/geofs-v3-9-ecosystem)
-*A professional-grade suite of modular flight deck enhancements, avionics overlays, and physics simulators for the GeoFS browser-based flight simulator.*
-* **Core Foundation**: Standardized core libraries and coordinate managers supporting modular add-ons.
-* **Avionics & HUDs**: Flight Path Vector (ECEF projection), Autothrottle (PID controllers), Fuel Simulator, and Landing Statistics loggers.
-* **Aesthetics**: Responsive glassmorphic overlays mimicking real-world flight decks (Airbus, Boeing, Garmin).
-* **Delivery**: Secondary audio/telemetry assets served via CORS-compliant caching on Cloudflare Workers.
+Welcome! I am a software engineer focused on native macOS desktop applications, high-performance systems utilities, terminal environments, and browser automation. I build local-first, highly responsive software with clean user interfaces and robust architectures.
 
 ---
 
-## 🧩 Browser Extensions & Automation
+## Featured macOS Desktop Applications
 
-### [FMG (Free Map Genie)](https://github.com/amfi-disable/FMG)
-* A browser extension that unlocks interactive maps with full features, completely rewritten for zero-overhead client execution.
+### [Juicer](https://github.com/AMFI-Disable/Juicer)
+*A comprehensive, 100% free and open-source local-first desktop system utility for macOS power users and developers.*
+* Consolidates app uninstallers, orphan file cleaners, launchd/service managers, developer cache pruners, hidden system tweakers, Gatekeeper tools, DNS editor, and LaunchServices overrides.
+* Built natively with **SwiftUI** and powered by the modular core framework [JuicerKit](https://github.com/AMFI-Disable/JuicerKit).
+* Available via [Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer) (`brew tap AMFI-Disable/juicer`).
 
-### [SkribblPaint](https://github.com/amfi-disable/SkribblPaint)
-* An autonomous painting automation extension for Skribbl.io using HTML5 Canvas pixel parsing, image processing, and DOM event simulation.
+### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
+*A focused, native macOS graphical package manager for Homebrew.*
+* Streamlines discovering, installing, updating, and safely removing CLI formulas, desktop casks, and background services.
+* Features integrated diagnostic auditing, background service controls, and companion CLI helpers.
+* Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) (`brew tap AMFI-Disable/brewstore`).
 
-### [Gimkit Seller](https://github.com/amfi-disable/Gimkit)
-* An automated duplicate cosmetic seller script for the Gimkit Locker page featuring a collapsible 3D-styled control panel UI widget.
+### [PathDeck](https://github.com/AMFI-Disable/PathDeck)
+*A sleek, native macOS utility built in SwiftUI to inspect and organize shell configuration environments.*
+* Visually manages, validates, reorders, and safely creates backups of system paths (`$PATH`), shell aliases, and environment variables.
 
 ---
 
-## 🛠️ Technologies & Tooling
+## Terminal Environments And Systems Engineering
+
+### [OmniSuite](https://github.com/AMFI-Disable/OmniSuite)
+*A command-line and terminal user interface workstation engineered for forensic research and debate case compilation.*
+* **OmniDebate**: High-efficiency research and evidence management terminal app built in Python using **Textual**.
+* **OmniFormat**: Automated brief compiling and document formatting processor.
+* **Architecture**: Backed centrally by SQLite with SQLAlchemy ORM and Alembic schema migrations.
+
+### [Brew-Ghost](https://github.com/AMFI-Disable/Brew-Ghost)
+*A behavioral cleanup utility for Homebrew package management.*
+* Analyzes local shell history to detect unreferenced and inactive 'ghost' packages, recommending safe removals.
+
+---
+
+## Flight Simulation And Avionics Ecosystem
+
+### [GeoFS-V3.9 Modular Ecosystem](https://github.com/stars/AMFI-Disable/lists/geofs-v3-9-ecosystem)
+*A professional-grade suite of modular flight deck instruments, avionics overlays, and realistic physics simulations for the GeoFS browser-based simulator.*
+* **[Flight Path Vector](https://github.com/AMFI-Disable/GeoFS-V3.9_Flight-Path-Vector)**: Precision HUD projecting true velocity vectors using Earth-Centered, Earth-Fixed (ECEF) geometry.
+* **[Autothrottle](https://github.com/AMFI-Disable/GeoFS-V3.9_Autothrottle)**: Closed-loop PID speed control with automated retard logic for landing flare.
+* **[Realism Pack](https://github.com/AMFI-Disable/GeoFS-V3.9_Realism-Pack)**: Advanced aerodynamic physics simulation featuring dynamic G-force effects, camera shaking, and atmospheric audio.
+* **[Fuel Simulator](https://github.com/AMFI-Disable/GeoFS-V3.9_Fuel-Simulator)**: Realistic burn rates, dynamic center-of-gravity shifts, and inflight refueling management.
+* **[Landing Statistics](https://github.com/AMFI-Disable/GeoFS-V3.9_Landing-Statistics)**: Touchdown telemetry analysis, vertical speed logging, and precision landing grades.
+* **[Failure Simulator](https://github.com/AMFI-Disable/GeoFS-V3.9_Failure-Simulator)**: Emergency training engine delivering authentic, unpredictable aircraft system failures.
+* **Foundation & Design**: Supported by the standardized [Core Library](https://github.com/AMFI-Disable/GeoFS-V3.9_Core-Library) and unified glassmorphic [Design System](https://github.com/AMFI-Disable/GeoFS-V3.9_Design-System).
+
+---
+
+## Web Extensions And Script Automation
+
+### [FMG (Free Map Genie)](https://github.com/AMFI-Disable/FMG_Free-MapGenie)
+*A lightweight browser extension providing interactive map tracking and features with zero performance overhead.*
+
+### [Gimkit Seller](https://github.com/AMFI-Disable/GimSell_Gimkit-Seller)
+*An automated cosmetic seller script for the Gimkit locker interface, featuring a compact collapsible user interface.*
+
+### [Lichess AutoPlayer](https://github.com/AMFI-Disable/Lichess-AutoPlayer)
+*An autonomous chess player and board evaluation bot for online game analysis.*
+
+---
+
+## Official Homebrew Taps
+
+* **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Official tap repository hosting formula and cask distributions for Juicer.
+* **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Official tap repository for BrewStore.
+* **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: General Homebrew formula and utility collection.
+
+---
+
+## Technical Skills And Technologies
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), TypeScript, HTML5, CSS3 / Custom Styles |
-| **Frameworks & Libraries** | Textual, SQLAlchemy, Alembic, Node.js |
-| **Web & APIs** | Chrome Extensions API, Userscripts (Tampermonkey/Violentmonkey), Cloudflare Workers, CORS |
-| **Databases** | SQLite, JSON Schema |
-| **Dev Tools** | Git, macOS Terminal, Shell Scripting |
+| **Languages** | Swift, Python, JavaScript (ES6+), TypeScript, Shell (Bash / Zsh), HTML5, CSS3 |
+| **macOS & Desktop** | SwiftUI, AppKit, Combine, Foundation, Xcode, XcodeGen |
+| **CLI & Terminal** | Textual, Rich, Click, Argparse, Shell Scripting |
+| **Web & Automation** | Chrome Extensions API, Userscripts (Tampermonkey), Node.js, Cloudflare Workers |
+| **Data & Storage** | SQLite, SQLAlchemy, Alembic, JSON Schema |
+| **DevOps & Tooling** | Git, GitHub Actions CI/CD, Homebrew Packaging |
 
 ---
 
-## 🔒 Privacy & Principles
-* **Zero-Latency Execution**: High-frequency loops are always optimized and throttled to prevent performance degradation on target sites/systems.
-* **User Consent & Control**: Interfaces are designed with collapsible, non-intrusive UI widgets, custom hotkeys, and clear configuration toggles.
-* **Privacy & Isolation**: No telemetry collection, no personal data leakage, and maximum client-side data isolation.
+## Core Engineering Principles
+
+* **Local-First Privacy**: Absolute privacy with zero telemetry, zero tracker dependencies, and complete client-side data ownership.
+* **Native Desktop Performance**: Native SwiftUI and AppKit implementations designed to feel integrated into the macOS operating system.
+* **Clean Code & Test Integrity**: Consistent architecture, automated CI validation, and clear documentation across all open-source projects.
