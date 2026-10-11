@@ -19,7 +19,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 *A comprehensive, 100% free and open-source local-first desktop system utility for macOS power users and developers.*
 
 - Consolidates app uninstallers, orphan file cleaners, launchd/service managers, developer cache pruners, hidden system tweakers, Gatekeeper tools, DNS editor, and LaunchServices overrides.
-- Built natively with **SwiftUI** and powered by the modular core framework [JuicerKit](https://github.com/AMFI-Disable/JuicerKit).
+- Built natively with **SwiftUI** and powered by the modular core framework [JuicerKit](https://github.com/AMFI-Disable/JuicerKit) *(Archived)*.
 - Available via [Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer) (`brew tap AMFI-Disable/juicer`).
 
 ### [PathDeck](https://github.com/AMFI-Disable/PathDeck) *(Archived - Final v1.0.1)*
@@ -54,7 +54,6 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 *A professional-grade suite of modular flight deck instruments, avionics overlays, and realistic physics simulations for the GeoFS browser-based simulator.*
 
-- **[Addon Pack](https://github.com/AMFI-Disable/GeoFS-V3.9_Addon-Pack)**: All-in-one suite bundling 27+ avionics tools, procedure panels, and AI ATC with a unified draggable glassmorphic HUD.
 - **[Flight Path Vector](https://github.com/AMFI-Disable/GeoFS-V3.9_Flight-Path-Vector)**: Precision HUD projecting true velocity vectors using Earth-Centered, Earth-Fixed (ECEF) geometry.
 - **[Autothrottle](https://github.com/AMFI-Disable/GeoFS-V3.9_Autothrottle)**: Closed-loop PID speed control with automated retard logic for landing flare.
 - **[Information Display](https://github.com/AMFI-Disable/GeoFS-V3.9_Information-Display)**: High-density glass-cockpit telemetry HUD displaying airspeed, attitude, altitude, and wind vectors.
@@ -90,8 +89,8 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 ## Official Homebrew Taps
 
 - **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Official tap repository for BrewStore.
-- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Official tap repository hosting formula and cask distributions for Juicer.
 - **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: General Homebrew formula and utility collection.
+- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)** *(Archived)*: Historical tap repository hosting formula and cask distributions for Juicer.
 
 ---
 
