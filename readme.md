@@ -86,6 +86,17 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ---
 
+## Interactive Games And Web Applications
+
+### [RenYing](https://github.com/AMFI-Disable/RenYing)
+
+*A fast-paced, ink-wash ninja action game built with Phaser 3 and Tailwind CSS.*
+
+- Delivers responsive combat mechanics, precision parry timings, and ink-wash visual aesthetics.
+- Supports peer-to-peer WebRTC room matchmaking, local LAN multiplayer server, and offline standalone play.
+
+---
+
 ## Official Homebrew Taps
 
 - **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Official tap repository for BrewStore.
