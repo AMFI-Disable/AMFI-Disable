@@ -4,6 +4,14 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ---
 
+## [Unreleased]
+
+### Changed
+
+- Updated Juicer profile summary in `readme.md` to highlight its native SwiftUI local-first systems architecture and removed deprecated JuicerKit references.
+
+---
+
 ## [2.0.0] - Portfolio Restructuring And Identity Realignment
 
 ### Added
