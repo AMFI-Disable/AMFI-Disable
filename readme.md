@@ -19,7 +19,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 *A comprehensive, 100% free and open-source local-first desktop system utility for macOS power users and developers.*
 
 - Consolidates app uninstallers, orphan file cleaners, launchd/service managers, developer cache pruners, hidden system tweakers, Gatekeeper tools, DNS editor, and LaunchServices overrides.
-- Built natively with **SwiftUI** and powered by the modular core framework [JuicerKit](https://github.com/AMFI-Disable/JuicerKit) *(Archived)*.
+- Built natively with **SwiftUI** featuring a modular, local-first systems architecture.
 - Available via [Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer) (`brew tap AMFI-Disable/juicer`).
 
 ### [PathDeck](https://github.com/AMFI-Disable/PathDeck) *(Archived - Final v1.0.1)*
