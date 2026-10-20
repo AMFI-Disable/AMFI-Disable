@@ -95,6 +95,14 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 - Delivers responsive combat mechanics, precision parry timings, and ink-wash visual aesthetics.
 - Supports peer-to-peer WebRTC room matchmaking, local LAN multiplayer server, and offline standalone play.
 
+### [DustIII](https://github.com/AMFI-Disable/DustIII)
+
+*A browser-native 5v5 bomb-defusal game recreating the classic de_dust2 loop with Three.js.*
+
+- Implements a CS2-style economy, buy menu, spray patterns, wallbangs, utility, and the full C4 plant and defuse cycle.
+- Ships four tiers of tactical bot AI, a complete Dust II callout map, and a zero-backend static build.
+- Distributed as a static site with zero telemetry and no installable binaries.
+
 ---
 
 ## Official Homebrew Taps

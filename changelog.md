@@ -6,6 +6,10 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ## [Unreleased]
 
+### Added
+
+- **DustIII Portfolio Entry**: Added [DustIII](https://github.com/AMFI-Disable/DustIII) to the interactive games section, covering its CS2-style bomb defusal ruleset, tactical bot AI, and static Three.js delivery.
+
 ### Changed
 
 - Updated Juicer profile summary in `readme.md` to highlight its native SwiftUI local-first systems architecture and removed deprecated JuicerKit references.
