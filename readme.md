@@ -101,7 +101,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 - Implements a CS2-style economy, buy menu, spray patterns, wallbangs, utility, and the full C4 plant and defuse cycle.
 - Ships four tiers of tactical bot AI, a complete Dust II callout map, and a zero-backend static build.
-- Distributed as a static site with zero telemetry and no installable binaries.
+- Playable in the browser at [amfi-disable.github.io/DustIII](https://amfi-disable.github.io/DustIII/), with zero telemetry and no installable binaries.
 
 ---
 

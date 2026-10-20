@@ -8,7 +8,7 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Added
 
-- **DustIII Portfolio Entry**: Added [DustIII](https://github.com/AMFI-Disable/DustIII) to the interactive games section, covering its CS2-style bomb defusal ruleset, tactical bot AI, and static Three.js delivery.
+- **DustIII Portfolio Entry**: Added [DustIII](https://github.com/AMFI-Disable/DustIII) to the interactive games section, covering its CS2-style bomb defusal ruleset, tactical bot AI, and static Three.js delivery, with a direct link to the live GitHub Pages build.
 
 ### Changed
 
