@@ -6,7 +6,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## Featured macOS Desktop Applications
 
-### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
+### [BrewStore](https://github.com/AMFI-Disable/BrewStore) *(Archived - Final v1.0.0)*
 
 *A focused, native macOS graphical package manager for Homebrew.*
 
