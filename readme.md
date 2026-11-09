@@ -12,7 +12,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 - Streamlines discovering, installing, updating, and safely removing CLI formulas, desktop casks, and background services.
 - Features integrated diagnostic auditing, background service controls, and companion CLI helpers.
-- Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) (`brew tap AMFI-Disable/brewstore`).
+- Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) *(Archived)* (`brew tap AMFI-Disable/brewstore`).
 
 ### [Juicer](https://github.com/AMFI-Disable/Juicer) *(Archived - Final v1.1.3)*
 
@@ -107,8 +107,8 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## Official Homebrew Taps
 
-- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Official tap repository for BrewStore.
-- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: General Homebrew formula and utility collection.
+- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)** *(Archived)*: Dedicated tap repository for BrewStore.
+- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap for all CLI projects and formula utilities.
 - **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)** *(Archived)*: Historical tap repository hosting formula and cask distributions for Juicer.
 
 ---
