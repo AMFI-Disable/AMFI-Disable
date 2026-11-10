@@ -12,6 +12,7 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Changed
 
+- Restored active project maintenance status references across developer profile in `readme.md`, removing archived markers from featured applications (BrewStore, Juicer, PathDeck, OmniSuite) and Homebrew taps (Homebrew-BrewStore, Homebrew-Juicer).
 - Updated Juicer profile summary in `readme.md` to highlight its native SwiftUI local-first systems architecture and removed deprecated JuicerKit references.
 
 ---
