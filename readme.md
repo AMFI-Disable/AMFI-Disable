@@ -6,15 +6,15 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## Featured macOS Desktop Applications
 
-### [BrewStore](https://github.com/AMFI-Disable/BrewStore) *(Archived - Final v1.0.0)*
+### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
 
 *A focused, native macOS graphical package manager for Homebrew.*
 
 - Streamlines discovering, installing, updating, and safely removing CLI formulas, desktop casks, and background services.
 - Features integrated diagnostic auditing, background service controls, and companion CLI helpers.
-- Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) *(Archived)* (`brew tap AMFI-Disable/brewstore`).
+- Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) (`brew tap AMFI-Disable/brewstore`).
 
-### [Juicer](https://github.com/AMFI-Disable/Juicer) *(Archived - Final v1.1.3)*
+### [Juicer](https://github.com/AMFI-Disable/Juicer)
 
 *A comprehensive, 100% free and open-source local-first desktop system utility for macOS power users and developers.*
 
@@ -22,7 +22,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 - Built natively with **SwiftUI** featuring a modular, local-first systems architecture.
 - Available via [Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer) (`brew tap AMFI-Disable/juicer`).
 
-### [PathDeck](https://github.com/AMFI-Disable/PathDeck) *(Archived - Final v1.0.1)*
+### [PathDeck](https://github.com/AMFI-Disable/PathDeck)
 
 *A sleek, native macOS utility built in SwiftUI to inspect and organize shell configuration environments.*
 
@@ -32,7 +32,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## Terminal Environments And Systems Engineering
 
-### [OmniSuite](https://github.com/AMFI-Disable/OmniSuite) *(Archived - Final v1.0.0)*
+### [OmniSuite](https://github.com/AMFI-Disable/OmniSuite)
 
 *A command-line and terminal user interface workstation engineered for forensic research and debate case compilation.*
 
@@ -107,9 +107,9 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## Official Homebrew Taps
 
-- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)** *(Archived)*: Dedicated tap repository for BrewStore.
+- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Dedicated tap repository for BrewStore.
 - **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap for all CLI projects and formula utilities.
-- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)** *(Archived)*: Historical tap repository hosting formula and cask distributions for Juicer.
+- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Dedicated tap repository hosting formula and cask distributions for Juicer.
 
 ---
 
