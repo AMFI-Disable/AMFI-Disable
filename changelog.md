@@ -8,6 +8,7 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Added
 
+- **TornTools Portfolio Entry**: Added [TornTools](https://github.com/AMFI-Disable/TornTools) to the Web Extensions section in `readme.md`, documenting its TypeScript and WXT browser extension architecture.
 - **DustIII Portfolio Entry**: Added [DustIII](https://github.com/AMFI-Disable/DustIII) to the interactive games section, covering its CS2-style bomb defusal ruleset, tactical bot AI, and static Three.js delivery, with a direct link to the live GitHub Pages build.
 
 ### Changed

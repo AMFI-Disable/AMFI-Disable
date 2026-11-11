@@ -72,6 +72,13 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## Web Extensions And Script Automation
 
+### [TornTools](https://github.com/AMFI-Disable/TornTools)
+
+*A feature-rich browser extension built in TypeScript using the WXT framework for Torn City.*
+
+- Delivers high-utility gameplay enhancements including gym gain calculations, market pricing suggestions, travel notifications, and combat helpers.
+- Built with strict TypeScript typing, modular feature components, and cross-browser support (Chromium and Firefox).
+
 ### [FMG (Free Map Genie)](https://github.com/AMFI-Disable/FMG_Free-MapGenie)
 
 *A lightweight browser extension providing interactive map tracking and features with zero performance overhead.*
