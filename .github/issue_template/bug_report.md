@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the documentation or portfolio
+about: Report a bug or unexpected behavior
 title: "[BUG] "
 labels: bug
 assignees: AMFI-Disable
@@ -12,19 +12,21 @@ A clear and concise description of what the bug is.
 
 ## Steps To Reproduce
 
-1. Navigate to '...'
-2. Click on '....'
-3. Observe error behavior.
+1. Open '...'
+2. Navigate to '...'
+3. Trigger '...'
+4. Observe the issue.
 
 ## Expected Behavior
 
-A clear and concise description of what you expected to happen.
+What you expected to happen.
 
 ## Environment Details
 
-- **Browser**: [e.g. Safari, Chrome, Firefox]
-- **Operating System**: [e.g. macOS Sonoma 14.5, Sequoia 15.0]
+- **Project Version**: [e.g. 1.0.0]
+- **Browser / Runtime**: [e.g. Chrome 130, Firefox 132, Tampermonkey 5.x]
+- **Operating System**: [e.g. macOS 15, Windows 11, Linux]
 
 ## Additional Context
 
-Add any other context, logs, or diagnostic information here.
+Add console errors, screenshots, or reproduction logs here.
