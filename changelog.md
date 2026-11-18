@@ -8,13 +8,17 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Added
 
+- **GeoFS_Extension Portfolio Entry**: Replaced legacy `GeoFS-V3.9` ecosystem links with unified [GeoFS_Extension](https://github.com/AMFI-Disable/GeoFS_Extension) Manifest V3 extension entry.
 - **TornTools Portfolio Entry**: Added [TornTools](https://github.com/AMFI-Disable/TornTools) to the Web Extensions section in `readme.md`, documenting its TypeScript and WXT browser extension architecture.
 - **DustIII Portfolio Entry**: Added [DustIII](https://github.com/AMFI-Disable/DustIII) to the interactive games section, covering its CS2-style bomb defusal ruleset, tactical bot AI, and static Three.js delivery, with a direct link to the live GitHub Pages build.
 
 ### Changed
 
+- Reorganized `readme.md` into standardized portfolio categories (`macOS Native Apps`, `Browser Extensions And Userscripts`, `Browser Games`, `CLI And Developer Tools`, `Homebrew Distribution`) with aligned tech stacks and fork attributions.
+
 - Restored active project maintenance status references across developer profile in `readme.md`, removing archived markers from featured applications (BrewStore, Juicer, PathDeck, OmniSuite) and Homebrew taps (Homebrew-BrewStore, Homebrew-Juicer).
 - Updated Juicer profile summary in `readme.md` to highlight its native SwiftUI local-first systems architecture and removed deprecated JuicerKit references.
+- Overhauled `.github/` issue/PR templates and `security.md` to remove emoji status markers, use plain-text `Yes` / `No` values, and standardize vulnerability reporting workflows.
 
 ---
 

@@ -1,122 +1,107 @@
 # AMFI-Disable
 
-Welcome! I am a software engineer focused on native macOS desktop applications, high-performance systems utilities, terminal environments, and browser automation. I build local-first, highly responsive software with clean user interfaces and robust architectures.
+Welcome! I am a software engineer focused on native macOS desktop applications, browser extensions, interactive web games, and developer CLI tooling. I build local-first, highly responsive software with clean interfaces and zero telemetry.
 
 ---
 
-## Featured macOS Desktop Applications
-
-### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
-
-*A focused, native macOS graphical package manager for Homebrew.*
-
-- Streamlines discovering, installing, updating, and safely removing CLI formulas, desktop casks, and background services.
-- Features integrated diagnostic auditing, background service controls, and companion CLI helpers.
-- Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) (`brew tap AMFI-Disable/brewstore`).
+## macOS Native Apps
 
 ### [Juicer](https://github.com/AMFI-Disable/Juicer)
 
-*A comprehensive, 100% free and open-source local-first desktop system utility for macOS power users and developers.*
+Local-first macOS system utility consolidating app uninstallers, orphan cleaners, `launchd` editors, cache pruners, and system tweakers.
 
-- Consolidates app uninstallers, orphan file cleaners, launchd/service managers, developer cache pruners, hidden system tweakers, Gatekeeper tools, DNS editor, and LaunchServices overrides.
-- Built natively with **SwiftUI** featuring a modular, local-first systems architecture.
-- Available via [Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer) (`brew tap AMFI-Disable/juicer`).
+- **Tech Stack**: Swift, SwiftUI (macOS 14+)
+- **Install**: `brew tap AMFI-Disable/juicer && brew install --cask juicer`
+
+### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
+
+Native macOS GUI and CLI companion for installing, updating, auditing, and managing Homebrew casks, formulae, and services.
+
+- **Tech Stack**: Swift, SwiftUI (macOS 14+)
+- **Install**: `brew tap AMFI-Disable/brewstore && brew install --cask brewstore`
 
 ### [PathDeck](https://github.com/AMFI-Disable/PathDeck)
 
-*A sleek, native macOS utility built in SwiftUI to inspect and organize shell configuration environments.*
+Native macOS GUI studio for visually managing, reordering, and backing up shell `PATH` entries, aliases, and environment variables.
 
-- Visually manages, validates, reorders, and safely creates backups of system paths (`$PATH`), shell aliases, and environment variables.
-
----
-
-## Terminal Environments And Systems Engineering
-
-### [OmniSuite](https://github.com/AMFI-Disable/OmniSuite)
-
-*A command-line and terminal user interface workstation engineered for forensic research and debate case compilation.*
-
-- **OmniDebate**: High-efficiency research and evidence management terminal app built in Python using **Textual**.
-- **OmniFormat**: Automated brief compiling and document formatting processor.
-- **Architecture**: Backed centrally by SQLite with SQLAlchemy ORM and Alembic schema migrations.
-
-### [Brew-Ghost](https://github.com/AMFI-Disable/Brew-Ghost)
-
-*A behavioral cleanup utility for Homebrew package management.*
-
-- Analyzes local shell history to detect unreferenced and inactive 'ghost' packages, recommending safe removals.
+- **Tech Stack**: Swift, SwiftUI (macOS 14+)
 
 ---
 
-## Flight Simulation And Avionics Ecosystem
+## Browser Extensions And Userscripts
 
-### [GeoFS-V3.9 Modular Ecosystem](https://github.com/stars/AMFI-Disable/lists/geofs-v3-9-ecosystem)
+### [GeoFS_Extension](https://github.com/AMFI-Disable/GeoFS_Extension)
 
-*A professional-grade suite of modular flight deck instruments, avionics overlays, and realistic physics simulations for the GeoFS browser-based simulator.*
+Unified Manifest V3 Chrome extension (plus archived legacy userscripts) providing an all-in-one flight deck companion for GeoFS V3.9/V4.0.
 
-- **[Flight Path Vector](https://github.com/AMFI-Disable/GeoFS-V3.9_Flight-Path-Vector)**: Precision HUD projecting true velocity vectors using Earth-Centered, Earth-Fixed (ECEF) geometry.
-- **[Autothrottle](https://github.com/AMFI-Disable/GeoFS-V3.9_Autothrottle)**: Closed-loop PID speed control with automated retard logic for landing flare.
-- **[Information Display](https://github.com/AMFI-Disable/GeoFS-V3.9_Information-Display)**: High-density glass-cockpit telemetry HUD displaying airspeed, attitude, altitude, and wind vectors.
-- **[Realism Pack](https://github.com/AMFI-Disable/GeoFS-V3.9_Realism-Pack)**: Advanced aerodynamic physics simulation featuring dynamic G-force effects, camera shaking, and atmospheric audio.
-- **[Fuel Simulator](https://github.com/AMFI-Disable/GeoFS-V3.9_Fuel-Simulator)**: Realistic burn rates, dynamic center-of-gravity shifts, and inflight refueling management.
-- **[Landing Statistics](https://github.com/AMFI-Disable/GeoFS-V3.9_Landing-Statistics)**: Touchdown telemetry analysis, vertical speed logging, and precision landing grades.
-- **[Failure Simulator](https://github.com/AMFI-Disable/GeoFS-V3.9_Failure-Simulator)**: Emergency training engine delivering authentic, unpredictable aircraft system failures.
-- **[Checklist System](https://github.com/AMFI-Disable/GeoFS-V3.9_Checklist-System)**: Aircraft-specific procedural flows with interactive checklist items and audio callouts.
-- **[Overpowered Engines](https://github.com/AMFI-Disable/GeoFS-V3.9_Overpowered-Engines)**: High-performance propulsion scaling with stability augmentation and simulated afterburners.
-- **Foundational Framework & Assets**:
-  - **[Core Library](https://github.com/AMFI-Disable/GeoFS-V3.9_Core-Library)**: Foundational ecosystem API providing lifecycle initialization and module communication.
-  - **[Design System](https://github.com/AMFI-Disable/GeoFS-V3.9_Design-System)**: Unified glassmorphic UI framework delivering consistent dark-grey and aviation-orange styling.
-  - **[Assets](https://github.com/AMFI-Disable/GeoFS-V3.9_Assets)**: Centralized static CDN assets repository hosting GPWS audio callouts, 3D models, textures, and UI iconography.
+- **Tech Stack**: TypeScript, JavaScript, Vite, Vitest
 
----
+### [Lichess-AutoPlayer](https://github.com/AMFI-Disable/Lichess-AutoPlayer)
 
-## Web Extensions And Script Automation
+Userscript powered by Stockfish WebAssembly for automated Lichess quick-pairing and chess play with an optional native mouse companion server.
+
+- **Tech Stack**: JavaScript, Node.js, Stockfish WASM, C++
+
+### [GimSell_Gimkit-Seller](https://github.com/AMFI-Disable/GimSell_Gimkit-Seller)
+
+In-page userscript with a floating widget that automates selling duplicate cosmetics (Gims, trails, stickers) in the Gimkit Locker.
+
+- **Tech Stack**: JavaScript (Tampermonkey / Violentmonkey)
+
+### [FMG_Free-MapGenie](https://github.com/AMFI-Disable/FMG_Free-MapGenie)
+
+Chromium/Firefox extension (WXT v3 rewrite in progress) that unlocks MapGenie Pro features client-side using Dexie.
+
+- **Tech Stack**: TypeScript, JavaScript, WXT, Dexie (forked from `V1P3R-FMG/free-map-genie`)
 
 ### [TornTools](https://github.com/AMFI-Disable/TornTools)
 
-*A feature-rich browser extension built in TypeScript using the WXT framework for Torn City.*
+Browser extension adding quality-of-life tools, calculators, and UI enhancements for the text-based RPG Torn.com.
 
-- Delivers high-utility gameplay enhancements including gym gain calculations, market pricing suggestions, travel notifications, and combat helpers.
-- Built with strict TypeScript typing, modular feature components, and cross-browser support (Chromium and Firefox).
-
-### [FMG (Free Map Genie)](https://github.com/AMFI-Disable/FMG_Free-MapGenie)
-
-*A lightweight browser extension providing interactive map tracking and features with zero performance overhead.*
-
-### [Gimkit Seller](https://github.com/AMFI-Disable/GimSell_Gimkit-Seller)
-
-*An automated cosmetic seller script for the Gimkit locker interface, featuring a compact collapsible user interface.*
-
-### [Lichess AutoPlayer](https://github.com/AMFI-Disable/Lichess-AutoPlayer)
-
-*An autonomous chess player and board evaluation bot for online game analysis.*
+- **Tech Stack**: TypeScript, Bun (forked from `Mephiles/torntools_extension`)
 
 ---
 
-## Interactive Games And Web Applications
+## Browser Games
 
 ### [RenYing](https://github.com/AMFI-Disable/RenYing)
 
-*A fast-paced, ink-wash ninja action game built with Phaser 3 and Tailwind CSS.*
+Ink-wash martial-arts 1v1 fighting game in the browser featuring 16 heroes, serverless WebRTC P2P multiplayer, and an optional Cloudflare Worker.
 
-- Delivers responsive combat mechanics, precision parry timings, and ink-wash visual aesthetics.
-- Supports peer-to-peer WebRTC room matchmaking, local LAN multiplayer server, and offline standalone play.
+- **Tech Stack**: HTML5 Canvas, JavaScript, WebRTC, Cloudflare Workers
+- **Play**: [amfi-disable.github.io/RenYing](https://amfi-disable.github.io/RenYing/)
 
 ### [DustIII](https://github.com/AMFI-Disable/DustIII)
 
-*A browser-native 5v5 bomb-defusal game recreating the classic de_dust2 loop with Three.js.*
+Static-site browser-native 5v5 bomb defusal shooter on Dust II with CS2-style economy, spray patterns, wallbangs, utility, and four bot tiers.
 
-- Implements a CS2-style economy, buy menu, spray patterns, wallbangs, utility, and the full C4 plant and defuse cycle.
-- Ships four tiers of tactical bot AI, a complete Dust II callout map, and a zero-backend static build.
-- Playable in the browser at [amfi-disable.github.io/DustIII](https://amfi-disable.github.io/DustIII/), with zero telemetry and no installable binaries.
+- **Tech Stack**: JavaScript, Three.js (WebGL 2 / ES Modules)
+- **Play**: [amfi-disable.github.io/DustIII](https://amfi-disable.github.io/DustIII/)
 
 ---
 
-## Official Homebrew Taps
+## CLI And Developer Tools
 
-- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Dedicated tap repository for BrewStore.
-- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap for all CLI projects and formula utilities.
-- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Dedicated tap repository hosting formula and cask distributions for Juicer.
+### [OmniSuite](https://github.com/AMFI-Disable/OmniSuite)
+
+Terminal workstation (CLI + Textual TUI) for competitive debate/forensics to store, filter, and rapidly retrieve AFF/NEG debate cards during crossfire.
+
+- **Tech Stack**: Python 3.10+, Textual, Docker, `uv`
+
+### [Brew-Ghost](https://github.com/AMFI-Disable/Brew-Ghost)
+
+Behavioral Homebrew cleanup CLI that analyzes Bash/Zsh shell history to safely identify and purge packages unused for over 90 days.
+
+- **Tech Stack**: Python, Shell (Bash / Zsh)
+- **Install**: `brew tap AMFI-Disable/tap && brew install brew-ghost`
+
+---
+
+## Homebrew Distribution
+
+- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Official Homebrew cask tap (`casks/juicer.rb`) for installing and updating the Juicer macOS app.
+- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Official Homebrew cask tap (`casks/brewstore.rb`) for installing and updating the BrewStore macOS app.
+- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap (`formula/brew-ghost.rb`) hosting CLI formulae for AMFI-Disable tools.
 
 ---
 
@@ -124,17 +109,15 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Swift, Python, JavaScript (ES6+), TypeScript, Shell (Bash / Zsh), HTML5, CSS3 |
-| **macOS & Desktop** | SwiftUI, AppKit, Combine, Foundation, Xcode, XcodeGen |
-| **CLI & Terminal** | Textual, Rich, Click, Argparse, Shell Scripting |
-| **Web & Automation** | Chrome Extensions API, Userscripts (Tampermonkey), Node.js, Cloudflare Workers |
-| **Data & Storage** | SQLite, SQLAlchemy, Alembic, JSON Schema |
-| **DevOps & Tooling** | Git, GitHub Actions CI/CD, Homebrew Packaging |
+| **Languages** | Swift, TypeScript, JavaScript, Python, C++, Ruby, Shell (Bash / Zsh) |
+| **macOS & Desktop** | SwiftUI, AppKit, Combine, Xcode, XcodeGen |
+| **Web & Extensions** | Manifest V3, WXT, Vite, Vitest, Three.js, HTML5 Canvas, WebRTC, Stockfish WASM |
+| **CLI & Tooling** | Textual, Bun, `uv`, Docker, GitHub Actions, Homebrew Packaging |
 
 ---
 
 ## Core Engineering Principles
 
-- **Local-First Privacy**: Absolute privacy with zero telemetry, zero tracker dependencies, and complete client-side data ownership.
-- **Native Desktop Performance**: Native SwiftUI and AppKit implementations designed to feel integrated into the macOS operating system.
-- **Clean Code & Test Integrity**: Consistent architecture, automated CI validation, and clear documentation across all open-source projects.
+- **Local-First Privacy**: Zero telemetry, zero tracker dependencies, and complete client-side data ownership.
+- **Native Desktop Performance**: Native SwiftUI and AppKit implementations designed to feel integrated into macOS.
+- **Clean Code & Test Integrity**: Consistent architecture, automated CI validation, and clear documentation across all repositories.
