@@ -11,14 +11,14 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 Local-first macOS system utility consolidating app uninstallers, orphan cleaners, `launchd` editors, cache pruners, and system tweakers.
 
 - **Tech Stack**: Swift, SwiftUI (macOS 14+)
-- **Install**: `brew tap AMFI-Disable/juicer && brew install --cask juicer`
+- **Install**: `brew tap AMFI-Disable/tap && brew install --cask juicer`
 
 ### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
 
 Native macOS GUI and CLI companion for installing, updating, auditing, and managing Homebrew casks, formulae, and services.
 
 - **Tech Stack**: Swift, SwiftUI (macOS 14+)
-- **Install**: `brew tap AMFI-Disable/brewstore && brew install --cask brewstore`
+- **Install**: `brew tap AMFI-Disable/tap && brew install --cask brewstore`
 
 ### [PathDeck](https://github.com/AMFI-Disable/PathDeck)
 
@@ -99,9 +99,8 @@ Behavioral Homebrew cleanup CLI that analyzes Bash/Zsh shell history to safely i
 
 ## Homebrew Distribution
 
-- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Official Homebrew cask tap (`casks/juicer.rb`) for installing and updating the Juicer macOS app.
-- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Official Homebrew cask tap (`casks/brewstore.rb`) for installing and updating the BrewStore macOS app.
-- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap (`formula/brew-ghost.rb`) hosting CLI formulae for AMFI-Disable tools.
+- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap (`AMFI-Disable/tap`) hosting casks (`casks/juicer.rb`, `casks/brewstore.rb`) and CLI formulae (`formula/brew-ghost.rb`).
+- *Legacy taps ([Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer), [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)) have been archived and consolidated into `Homebrew-Tap`.*
 
 ---
 
