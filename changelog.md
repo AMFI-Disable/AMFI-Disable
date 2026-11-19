@@ -14,8 +14,8 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Changed
 
+- Consolidated Homebrew distribution references in `readme.md` to point `Juicer` and `BrewStore` cask installs to the central `AMFI-Disable/tap` repository and mark `Homebrew-Juicer` and `Homebrew-BrewStore` as archived.
 - Reorganized `readme.md` into standardized portfolio categories (`macOS Native Apps`, `Browser Extensions And Userscripts`, `Browser Games`, `CLI And Developer Tools`, `Homebrew Distribution`) with aligned tech stacks and fork attributions.
-
 - Restored active project maintenance status references across developer profile in `readme.md`, removing archived markers from featured applications (BrewStore, Juicer, PathDeck, OmniSuite) and Homebrew taps (Homebrew-BrewStore, Homebrew-Juicer).
 - Updated Juicer profile summary in `readme.md` to highlight its native SwiftUI local-first systems architecture and removed deprecated JuicerKit references.
 - Overhauled `.github/` issue/PR templates and `security.md` to remove emoji status markers, use plain-text `Yes` / `No` values, and standardize vulnerability reporting workflows.
