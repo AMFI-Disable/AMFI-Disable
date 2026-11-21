@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="819" height="173" viewBox="0 0 819 173" role="img" aria-label="AMFI-Disable hexagonal contribution graph">
   <rect x="0.5" y="0.5" width="818" height="172" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <text x="24.0" y="28" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@AMFI-Disable · 1,732 contributions in the last year</text>
+  <text x="24.0" y="28" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@AMFI-Disable · 1,786 contributions in the last year</text>
   <polygon points="37.81,51.70 37.81,59.10 31.40,62.80 24.99,59.10 24.99,51.70 31.40,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-16: level 0</title></polygon>
   <polygon points="52.23,51.70 52.23,59.10 45.82,62.80 39.41,59.10 39.41,51.70 45.82,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-23: level 0</title></polygon>
   <polygon points="66.64,51.70 66.64,59.10 60.23,62.80 53.83,59.10 53.83,51.70 60.23,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-30: level 0</title></polygon>
@@ -318,7 +318,7 @@
   <polygon points="751.46,115.20 751.46,122.60 745.05,126.30 738.64,122.60 738.64,115.20 745.05,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-30: level 1</title></polygon>
   <polygon points="765.88,115.20 765.88,122.60 759.47,126.30 753.06,122.60 753.06,115.20 759.47,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-06: level 0</title></polygon>
   <polygon points="780.29,115.20 780.29,122.60 773.88,126.30 767.48,122.60 767.48,115.20 773.88,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-13: level 1</title></polygon>
-  <polygon points="794.71,115.20 794.71,122.60 788.30,126.30 781.89,122.60 781.89,115.20 788.30,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-20: level 1</title></polygon>
+  <polygon points="794.71,115.20 794.71,122.60 788.30,126.30 781.89,122.60 781.89,115.20 788.30,111.50" fill="#39d353" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-20: level 4</title></polygon>
   <polygon points="37.81,127.90 37.81,135.30 31.40,139.00 24.99,135.30 24.99,127.90 31.40,124.20" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-22: level 0</title></polygon>
   <polygon points="52.23,127.90 52.23,135.30 45.82,139.00 39.41,135.30 39.41,127.90 45.82,124.20" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-29: level 0</title></polygon>
   <polygon points="66.64,127.90 66.64,135.30 60.23,139.00 53.83,135.30 53.83,127.90 60.23,124.20" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-06: level 0</title></polygon>
@@ -371,6 +371,7 @@
   <polygon points="744.25,127.90 744.25,135.30 737.84,139.00 731.43,135.30 731.43,127.90 737.84,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-31: level 1</title></polygon>
   <polygon points="758.67,127.90 758.67,135.30 752.26,139.00 745.85,135.30 745.85,127.90 752.26,124.20" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-07: level 2</title></polygon>
   <polygon points="773.08,127.90 773.08,135.30 766.68,139.00 760.27,135.30 760.27,127.90 766.68,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-14: level 1</title></polygon>
+  <polygon points="787.50,127.90 787.50,135.30 781.09,139.00 774.68,135.30 774.68,127.90 781.09,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-21: level 1</title></polygon>
   <text x="641.3" y="160.9" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11">Less</text>
   <polygon points="678.52,153.90 678.52,159.90 673.32,162.90 668.12,159.90 668.12,153.90 673.32,150.90" fill="#161b22" stroke="#0b0e14" stroke-width="0.5"/>
   <polygon points="694.52,153.90 694.52,159.90 689.32,162.90 684.12,159.90 684.12,153.90 689.32,150.90" fill="#0e4429" stroke="#0b0e14" stroke-width="0.5"/>
