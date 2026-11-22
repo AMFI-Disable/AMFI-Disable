@@ -4,7 +4,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ---
 
-## macOS Native Apps
+## [AMFI Studio](https://amfi-disable.github.io/#studio) — macOS Native Apps
 
 ### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
 
@@ -31,7 +31,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ---
 
-## CLI & Developer Tools
+## [AMFI Terminal](https://amfi-disable.github.io/#terminal) — CLI & Developer Tools
 
 ### [OmniSuite](https://github.com/AMFI-Disable/OmniSuite)
 
@@ -50,7 +50,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ---
 
-## Browser Extensions & Userscripts
+## [AMFI Hangar](https://amfi-disable.github.io/#hangar) — Browser Extensions & Userscripts
 
 ### [GeoFS_Extension](https://github.com/AMFI-Disable/GeoFS_Extension)
 
@@ -73,7 +73,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ---
 
-## Interactive Games And Web Applications
+## [AMFI Arcade](https://amfi-disable.github.io/#arcade) — Browser Games
 
 ### [RenYing](https://github.com/AMFI-Disable/RenYing)
 
