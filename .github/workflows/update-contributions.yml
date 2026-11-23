@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit Updated Graphs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "AMFI-Disable"
+          git config user.email "evengao6688@gmail.com"
           git add assets/contribution-hexagon-dark.svg assets/contribution-hexagon-light.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: update hexagon graph"
