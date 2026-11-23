@@ -4,6 +4,32 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ---
 
+## GitHub Star History & Activity
+
+[![Total Stars](https://img.shields.io/github/stars/AMFI-Disable?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=f59e0b)](https://github.com/AMFI-Disable?tab=repositories)
+
+> **105 public stars** (**106 combined** across all AMFI-Disable repositories).
+
+### Combined Star History
+
+<a href="https://www.star-history.com/?type=date&repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools&type=date&legend=top-left" />
+    <img alt="AMFI-Disable Combined Star History Chart" src="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools&type=date&legend=top-left" />
+  </picture>
+</a>
+
+### Contribution Hexagon Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMFI-Disable/AMFI-Disable/main/assets/contribution-hexagon-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMFI-Disable/AMFI-Disable/main/assets/contribution-hexagon-light.svg" />
+  <img alt="AMFI-Disable Hexagonal Contribution Graph" src="https://raw.githubusercontent.com/AMFI-Disable/AMFI-Disable/main/assets/contribution-hexagon-dark.svg" />
+</picture>
+
+---
+
 ## [AMFI Studio](https://amfi-disable.github.io/#studio) — macOS Native Apps
 
 ### [BrewStore](https://github.com/AMFI-Disable/BrewStore)
