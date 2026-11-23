@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="819" height="173" viewBox="0 0 819 173" role="img" aria-label="AMFI-Disable hexagonal contribution graph">
   <rect x="0.5" y="0.5" width="818" height="172" rx="12" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="24.0" y="28" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@AMFI-Disable · 1,800 contributions in the last year</text>
+  <text x="24.0" y="28" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@AMFI-Disable · 1,836 contributions in the last year</text>
   <polygon points="37.81,51.70 37.81,59.10 31.40,62.80 24.99,59.10 24.99,51.70 31.40,48.00" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-11-23: level 0</title></polygon>
   <polygon points="52.23,51.70 52.23,59.10 45.82,62.80 39.41,59.10 39.41,51.70 45.82,48.00" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-11-30: level 0</title></polygon>
   <polygon points="66.64,51.70 66.64,59.10 60.23,62.80 53.83,59.10 53.83,51.70 60.23,48.00" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-12-07: level 0</title></polygon>
@@ -53,7 +53,7 @@
   <polygon points="744.25,51.70 744.25,59.10 737.84,62.80 731.43,59.10 731.43,51.70 737.84,48.00" fill="#40c463" stroke="#ffffff" stroke-width="0.6"><title>2026-11-01: level 2</title></polygon>
   <polygon points="758.67,51.70 758.67,59.10 752.26,62.80 745.85,59.10 745.85,51.70 752.26,48.00" fill="#30a14e" stroke="#ffffff" stroke-width="0.6"><title>2026-11-08: level 3</title></polygon>
   <polygon points="773.08,51.70 773.08,59.10 766.68,62.80 760.27,59.10 760.27,51.70 766.68,48.00" fill="#30a14e" stroke="#ffffff" stroke-width="0.6"><title>2026-11-15: level 3</title></polygon>
-  <polygon points="787.50,51.70 787.50,59.10 781.09,62.80 774.68,59.10 774.68,51.70 781.09,48.00" fill="#9be9a8" stroke="#ffffff" stroke-width="0.6"><title>2026-11-22: level 1</title></polygon>
+  <polygon points="787.50,51.70 787.50,59.10 781.09,62.80 774.68,59.10 774.68,51.70 781.09,48.00" fill="#216e39" stroke="#ffffff" stroke-width="0.6"><title>2026-11-22: level 4</title></polygon>
   <polygon points="45.02,64.40 45.02,71.80 38.61,75.50 32.20,71.80 32.20,64.40 38.61,60.70" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-11-24: level 0</title></polygon>
   <polygon points="59.43,64.40 59.43,71.80 53.03,75.50 46.62,71.80 46.62,64.40 53.03,60.70" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-12-01: level 0</title></polygon>
   <polygon points="73.85,64.40 73.85,71.80 67.44,75.50 61.03,71.80 61.03,64.40 67.44,60.70" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-12-08: level 0</title></polygon>
@@ -106,6 +106,7 @@
   <polygon points="751.46,64.40 751.46,71.80 745.05,75.50 738.64,71.80 738.64,64.40 745.05,60.70" fill="#30a14e" stroke="#ffffff" stroke-width="0.6"><title>2026-11-02: level 3</title></polygon>
   <polygon points="765.88,64.40 765.88,71.80 759.47,75.50 753.06,71.80 753.06,64.40 759.47,60.70" fill="#30a14e" stroke="#ffffff" stroke-width="0.6"><title>2026-11-09: level 3</title></polygon>
   <polygon points="780.29,64.40 780.29,71.80 773.88,75.50 767.48,71.80 767.48,64.40 773.88,60.70" fill="#40c463" stroke="#ffffff" stroke-width="0.6"><title>2026-11-16: level 2</title></polygon>
+  <polygon points="794.71,64.40 794.71,71.80 788.30,75.50 781.89,71.80 781.89,64.40 788.30,60.70" fill="#9be9a8" stroke="#ffffff" stroke-width="0.6"><title>2026-11-23: level 1</title></polygon>
   <polygon points="37.81,77.10 37.81,84.50 31.40,88.20 24.99,84.50 24.99,77.10 31.40,73.40" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-11-25: level 0</title></polygon>
   <polygon points="52.23,77.10 52.23,84.50 45.82,88.20 39.41,84.50 39.41,77.10 45.82,73.40" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-12-02: level 0</title></polygon>
   <polygon points="66.64,77.10 66.64,84.50 60.23,88.20 53.83,84.50 53.83,77.10 60.23,73.40" fill="#ebedf0" stroke="#ffffff" stroke-width="0.6"><title>2025-12-09: level 0</title></polygon>
