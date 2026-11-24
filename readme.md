@@ -6,17 +6,17 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## GitHub Star History & Activity
 
-[![Total Stars](https://img.shields.io/github/stars/AMFI-Disable?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=f59e0b)](https://github.com/AMFI-Disable?tab=repositories)
+[![Total Stars](https://img.shields.io/github/stars/AMFI-Disable?affiliations=OWNER&style=flat-square&label=AMFI-Disable%20Stars&color=f59e0b)](https://github.com/AMFI-Disable?tab=repositories) [![BigBrainDevBros Stars](https://img.shields.io/badge/BigBrainDevBros%20Stars-10-f59e0b?style=flat-square)](https://github.com/BigBrainDevBros)
 
-> **105 public stars** (**106 combined** across all AMFI-Disable repositories).
+> **107 public stars** combined across **AMFI-Disable** (97) and **[BigBrainDevBros](https://github.com/BigBrainDevBros)** (10) repositories.
 
 ### Combined Star History
 
-<a href="https://www.star-history.com/?type=date&repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools">
+<a href="https://www.star-history.com/?type=date&repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools&type=date&legend=top-left" />
-    <img alt="AMFI-Disable Combined Star History Chart" src="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Fdustiii%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Frenying%2Camfi-disable%2Ftorntools&type=date&legend=top-left" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying&type=date&legend=top-left" />
+    <img alt="AMFI-Disable Combined Star History Chart" src="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying&type=date&legend=top-left" />
   </picture>
 </a>
 
@@ -101,20 +101,21 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## [AMFI Arcade](https://amfi-disable.github.io/#arcade) — Browser Games
 
-### [RenYing](https://github.com/AMFI-Disable/RenYing)
+### [RenYing](https://github.com/BigBrainDevBros/RenYing)
 
-*A fast-paced, ink-wash ninja action game built with Phaser 3 and Tailwind CSS.*
+*A fast-paced, ink-wash martial-arts duel game built with HTML5 Canvas and WebRTC.*
 
 - Delivers responsive combat mechanics, precision parry timings, and ink-wash visual aesthetics.
 - Supports peer-to-peer WebRTC room matchmaking, local LAN multiplayer server, and offline standalone play.
+- Maintained under [BigBrainDevBros](https://github.com/BigBrainDevBros) · [Play Online](https://bigbraindevbros.github.io/RenYing/).
 
-### [DustIII](https://github.com/AMFI-Disable/DustIII)
+### [FaceOff](https://github.com/BigBrainDevBros/FaceOff)
 
 *A browser-native 5v5 bomb-defusal game recreating the classic de_dust2 loop with Three.js.*
 
 - Implements a CS2-style economy, buy menu, spray patterns, wallbangs, utility, and the full C4 plant and defuse cycle.
 - Ships four tiers of tactical bot AI, a complete Dust II callout map, and a zero-backend static build.
-- Playable in the browser at [amfi-disable.github.io/DustIII](https://amfi-disable.github.io/DustIII/), with zero telemetry and no installable binaries.
+- Maintained under [BigBrainDevBros](https://github.com/BigBrainDevBros) · Playable in the browser at [bigbraindevbros.github.io/FaceOff](https://bigbraindevbros.github.io/FaceOff/), with zero telemetry and no installable binaries.
 
 ---
 
