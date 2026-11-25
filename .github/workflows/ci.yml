@@ -20,9 +20,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Verify Star History Scope
-        run: python3 -m unittest discover -s scripts
-
       - name: Validate YAML Files
         run: |
           ruby -ryaml -e '
