@@ -6,19 +6,9 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## GitHub Star History & Activity
 
-[![Total Stars](https://img.shields.io/github/stars/AMFI-Disable?affiliations=OWNER&style=flat-square&label=AMFI-Disable%20Stars&color=f59e0b)](https://github.com/AMFI-Disable?tab=repositories) [![BigBrainDevBros Stars](https://img.shields.io/badge/BigBrainDevBros%20Stars-10-f59e0b?style=flat-square)](https://github.com/BigBrainDevBros)
+The chart combines current stars across all public repositories owned by AMFI-Disable and BigBrainDevBros, including forks and archived projects. Each step uses the date a current stargazer starred a repository. The daily snapshot includes both owner totals.
 
-> **107 public stars** combined across **AMFI-Disable** (97) and **[BigBrainDevBros](https://github.com/BigBrainDevBros)** (10) repositories.
-
-### Combined Star History
-
-<a href="https://www.star-history.com/?type=date&repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying&type=date&legend=top-left" />
-    <img alt="AMFI-Disable Combined Star History Chart" src="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying&type=date&legend=top-left" />
-  </picture>
-</a>
+![Combined public repository star history and owner totals](assets/star-history.svg)
 
 ### Contribution Hexagon Graph
 
@@ -38,7 +28,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 - Streamlines discovering, installing, updating, and safely removing CLI formulas, desktop casks, and background services.
 - Features integrated diagnostic auditing, background service controls, and companion CLI helpers.
-- Available via [Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore) (`brew tap AMFI-Disable/brewstore`) · [Project Site](https://amfi-disable.github.io/BrewStore/).
+- Available via [Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap) (`brew install --cask AMFI-Disable/tap/brewstore`) · [Project Site](https://amfi-disable.github.io/BrewStore/).
 
 ### [Juicer](https://github.com/AMFI-Disable/Juicer)
 
@@ -46,7 +36,7 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 - Consolidates app uninstallers, orphan file cleaners, launchd/service managers, developer cache pruners, hidden system tweakers, Gatekeeper tools, DNS editor, and LaunchServices overrides.
 - Built natively with **SwiftUI** featuring a modular, local-first systems architecture.
-- Available via [Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer) (`brew tap AMFI-Disable/juicer`) · [Project Site](https://amfi-disable.github.io/Juicer/).
+- Available via [Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap) (`brew install --cask AMFI-Disable/tap/juicer`) · [Project Site](https://amfi-disable.github.io/Juicer/).
 
 ### [PathDeck](https://github.com/AMFI-Disable/PathDeck)
 
@@ -111,19 +101,19 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ### [FaceOff](https://github.com/BigBrainDevBros/FaceOff)
 
-*A browser-native 5v5 bomb-defusal game recreating the classic de_dust2 loop with Three.js.*
+Choose an arena and a bot difficulty for a first-to-nine duel. In each 50-second round, the final 20 seconds reveal player positions. [Play FaceOff](https://bigbraindevbros.github.io/FaceOff/)
 
-- Implements a CS2-style economy, buy menu, spray patterns, wallbangs, utility, and the full C4 plant and defuse cycle.
-- Ships four tiers of tactical bot AI, a complete Dust II callout map, and a zero-backend static build.
-- Maintained under [BigBrainDevBros](https://github.com/BigBrainDevBros) · Playable in the browser at [bigbraindevbros.github.io/FaceOff](https://bigbraindevbros.github.io/FaceOff/), with zero telemetry and no installable binaries.
+### [VANTAGE](https://github.com/BigBrainDevBros/VANTAGE)
+
+HilbertQiu’s standalone browser shooter lets players choose a map and city size for a solo match with bots. [Play VANTAGE](https://bigbraindevbros.github.io/VANTAGE/)
 
 ---
 
 ## Official Homebrew Taps
 
-- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Dedicated tap repository for BrewStore.
-- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Central Homebrew tap for all CLI projects and formula utilities.
-- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Dedicated tap repository hosting formula and cask distributions for Juicer.
+- **[Homebrew-BrewStore](https://github.com/AMFI-Disable/Homebrew-BrewStore)**: Archived predecessor of the central tap.
+- **[Homebrew-Tap](https://github.com/AMFI-Disable/Homebrew-Tap)**: Current distribution for Studio casks and terminal utilities.
+- **[Homebrew-Juicer](https://github.com/AMFI-Disable/Homebrew-Juicer)**: Archived predecessor of the central tap.
 
 ---
 
