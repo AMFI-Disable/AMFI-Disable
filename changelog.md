@@ -14,6 +14,7 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Changed
 
+- Restored the hosted Star History chart in `readme.md`, removed temporary local SVG star-history generator scripts (`scripts/generate_star_history.py`, `scripts/test_star_history.py`) and `assets/star-history.svg`, and refreshed contribution hexagon SVGs.
 - Generate the combined public star history and owner totals daily from GitHub. Direct Studio installs to the central tap.
 
 - Restored the Star History chart in `readme.md`, refreshed hexagonal contribution SVG assets, and updated `.github/workflows/update-contributions.yml` to use `actions/checkout@v7`, `actions/setup-python@v7`, and `AMFI-Disable` git author identity.
