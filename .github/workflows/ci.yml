@@ -20,6 +20,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Test Public Repository Scope
+        run: python3 -m unittest discover -s scripts
+
       - name: Validate YAML Files
         run: |
           ruby -ryaml -e '

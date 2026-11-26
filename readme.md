@@ -6,19 +6,20 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ## GitHub Star History & Activity
 
-[![Total Stars](https://img.shields.io/github/stars/AMFI-Disable?affiliations=OWNER&style=flat-square&label=AMFI-Disable%20Stars&color=f59e0b)](https://github.com/AMFI-Disable?tab=repositories) [![BigBrainDevBros Stars](https://img.shields.io/badge/BigBrainDevBros%20Stars-14-f59e0b?style=flat-square)](https://github.com/BigBrainDevBros)
+<!-- public-star-history:start -->
+[![AMFI-Disable stars](https://img.shields.io/badge/AMFI--Disable-96-f59e0b?style=flat-square)](https://github.com/AMFI-Disable?tab=repositories) [![BigBrainDevBros stars](https://img.shields.io/badge/BigBrainDevBros-17-f59e0b?style=flat-square)](https://github.com/orgs/BigBrainDevBros/repositories)
 
-> **111 public stars** combined across **AMFI-Disable** (97) and **[BigBrainDevBros](https://github.com/BigBrainDevBros)** (14) repositories.
+**113 public stars** across 21 repositories. AMFI-Disable has 96 and BigBrainDevBros has 17. Snapshot from 2026-11-26 UTC.
 
 ### Combined Star History
 
-<a href="https://www.star-history.com/?type=date&repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2F.github%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying%2Cbigbraindevbros%2Fvantage">
+<a href="https://www.star-history.com/?type=date&amp;repos=AMFI-Disable%2FAMFI-Disable%2CAMFI-Disable%2FAMFI-Disable.github.io%2CAMFI-Disable%2FBrew-Ghost%2CAMFI-Disable%2FBrewStore%2CAMFI-Disable%2FFMG_Free-MapGenie%2CAMFI-Disable%2FGeoFS_Extension%2CAMFI-Disable%2FGeoFS_LiverySelector%2CAMFI-Disable%2FGimSell_Gimkit-Seller%2CAMFI-Disable%2FHomebrew-BrewStore%2CAMFI-Disable%2FHomebrew-Juicer%2CAMFI-Disable%2FHomebrew-Tap%2CAMFI-Disable%2FJuicer%2CAMFI-Disable%2FLichess-AutoPlayer%2CAMFI-Disable%2FOmniSuite%2CAMFI-Disable%2FPathDeck%2CAMFI-Disable%2FTornTools%2CBigBrainDevBros%2F.github%2CBigBrainDevBros%2FFaceOff%2CBigBrainDevBros%2FIGPirate%2CBigBrainDevBros%2FRenYing%2CBigBrainDevBros%2FVANTAGE">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2F.github%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying%2Cbigbraindevbros%2Fvantage&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2F.github%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying%2Cbigbraindevbros%2Fvantage&type=date&legend=top-left" />
-    <img alt="AMFI-Disable Combined Star History Chart" src="https://api.star-history.com/chart?repos=amfi-disable%2Famfi-disable%2Camfi-disable%2Famfi-disable.github.io%2Camfi-disable%2Fbrew-ghost%2Camfi-disable%2Fbrewstore%2Camfi-disable%2Ffmg_free-mapgenie%2Camfi-disable%2Fgeofs_extension%2Camfi-disable%2Fgeofs_liveryselector%2Camfi-disable%2Fgimsell_gimkit-seller%2Camfi-disable%2Fhomebrew-brewstore%2Camfi-disable%2Fhomebrew-juicer%2Camfi-disable%2Fhomebrew-tap%2Camfi-disable%2Fjuicer%2Camfi-disable%2Flichess-autoplayer%2Camfi-disable%2Fomnisuite%2Camfi-disable%2Fpathdeck%2Camfi-disable%2Ftorntools%2Cbigbraindevbros%2F.github%2Cbigbraindevbros%2Ffaceoff%2Cbigbraindevbros%2Frenying%2Cbigbraindevbros%2Fvantage&type=date&legend=top-left" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AMFI-Disable%2FAMFI-Disable%2CAMFI-Disable%2FAMFI-Disable.github.io%2CAMFI-Disable%2FBrew-Ghost%2CAMFI-Disable%2FBrewStore%2CAMFI-Disable%2FFMG_Free-MapGenie%2CAMFI-Disable%2FGeoFS_Extension%2CAMFI-Disable%2FGeoFS_LiverySelector%2CAMFI-Disable%2FGimSell_Gimkit-Seller%2CAMFI-Disable%2FHomebrew-BrewStore%2CAMFI-Disable%2FHomebrew-Juicer%2CAMFI-Disable%2FHomebrew-Tap%2CAMFI-Disable%2FJuicer%2CAMFI-Disable%2FLichess-AutoPlayer%2CAMFI-Disable%2FOmniSuite%2CAMFI-Disable%2FPathDeck%2CAMFI-Disable%2FTornTools%2CBigBrainDevBros%2F.github%2CBigBrainDevBros%2FFaceOff%2CBigBrainDevBros%2FIGPirate%2CBigBrainDevBros%2FRenYing%2CBigBrainDevBros%2FVANTAGE&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+    <img alt="Star history for public AMFI-Disable and BigBrainDevBros repositories" src="https://api.star-history.com/chart?repos=AMFI-Disable%2FAMFI-Disable%2CAMFI-Disable%2FAMFI-Disable.github.io%2CAMFI-Disable%2FBrew-Ghost%2CAMFI-Disable%2FBrewStore%2CAMFI-Disable%2FFMG_Free-MapGenie%2CAMFI-Disable%2FGeoFS_Extension%2CAMFI-Disable%2FGeoFS_LiverySelector%2CAMFI-Disable%2FGimSell_Gimkit-Seller%2CAMFI-Disable%2FHomebrew-BrewStore%2CAMFI-Disable%2FHomebrew-Juicer%2CAMFI-Disable%2FHomebrew-Tap%2CAMFI-Disable%2FJuicer%2CAMFI-Disable%2FLichess-AutoPlayer%2CAMFI-Disable%2FOmniSuite%2CAMFI-Disable%2FPathDeck%2CAMFI-Disable%2FTornTools%2CBigBrainDevBros%2F.github%2CBigBrainDevBros%2FFaceOff%2CBigBrainDevBros%2FIGPirate%2CBigBrainDevBros%2FRenYing%2CBigBrainDevBros%2FVANTAGE&amp;type=date&amp;legend=top-left" />
   </picture>
 </a>
+<!-- public-star-history:end -->
 
 ### Contribution Hexagon Graph
 
@@ -87,13 +88,13 @@ Welcome! I am a software engineer focused on native macOS desktop applications, 
 
 ### [Lichess-AutoPlayer](https://github.com/AMFI-Disable/Lichess-AutoPlayer)
 
-*An autonomous chess player and board evaluation companion powered by Stockfish WebAssembly.*
+Practice premoves against a local computer opponent.
 
-- Automates quick-pairing and engine-assisted play directly in the browser with an optional native mouse companion server · [Project Site](https://amfi-disable.github.io/Lichess-AutoPlayer/).
+- Queue a move during the reply, cancel it, or reset the board. [Open Premove Practice](https://amfi-disable.github.io/Lichess-AutoPlayer/practice.html).
 
 ### [GimSell_Gimkit-Seller](https://github.com/AMFI-Disable/GimSell_Gimkit-Seller)
 
-*An automated duplicate cosmetic seller userscript for the Gimkit Locker interface.*
+*A duplicate cosmetic inventory preview for the Gimkit Locker.*
 
 - Features a compact, collapsible floating widget for fast client-side inventory management · [Project Site](https://amfi-disable.github.io/GimSell_Gimkit-Seller/).
 

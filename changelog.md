@@ -14,6 +14,8 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ### Changed
 
+- Refresh the public Star History scope and owner totals from the daily inventory. Link the chess showcase to the standalone practice board.
+
 - Restored the hosted Star History chart in `readme.md`, removed temporary local SVG star-history generator scripts (`scripts/generate_star_history.py`, `scripts/test_star_history.py`) and `assets/star-history.svg`, and refreshed contribution hexagon SVGs.
 - Generate the combined public star history and owner totals daily from GitHub. Direct Studio installs to the central tap.
 

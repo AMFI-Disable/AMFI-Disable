@@ -23,11 +23,16 @@ jobs:
       - name: Generate Hexagon SVGs
         run: python3 scripts/generate_hexagon_graph.py
 
+      - name: Refresh Public Repository Counts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_star_history.py
+
       - name: Commit Updated Graphs
         run: |
           git config user.name "AMFI-Disable"
           git config user.email "evengao6688@gmail.com"
-          git add assets/contribution-hexagon-dark.svg assets/contribution-hexagon-light.svg
+          git add readme.md assets/public-stars.json assets/contribution-hexagon-dark.svg assets/contribution-hexagon-light.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: update activity graphs"
             git push
