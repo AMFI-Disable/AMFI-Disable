@@ -6,6 +6,8 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ## [Unreleased]
 
+- Published a bilingual project roadmap with acceptance checks for each area.
+
 ### Documentation
 
 - Added Simplified Chinese project and contribution guides and bilingual feedback templates.

@@ -1,6 +1,6 @@
 # AMFI-Disable
 
-[中文文档](readme.zh-cn.md) · [Contributing](contributing.md)
+[中文文档](readme.zh-cn.md) · [Contributing](contributing.md) · [Roadmap](docs/roadmap.md)
 
 Welcome! I am a software engineer focused on native macOS desktop applications, high-performance systems utilities, terminal environments, and browser automation. I build local-first, highly responsive software with clean user interfaces and robust architectures.
 

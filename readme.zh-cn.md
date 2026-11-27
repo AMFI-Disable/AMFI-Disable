@@ -1,6 +1,6 @@
 # AMFI-Disable
 
-[English](readme.md) · [参与贡献](contributing.zh-cn.md) · [项目主页](https://amfi-disable.github.io/)
+[English](readme.md) · [参与贡献](contributing.zh-cn.md) · [路线图](docs/roadmap.zh-cn.md) · [项目主页](https://amfi-disable.github.io/)
 
 这里收录我的 macOS 应用、终端工具、浏览器扩展，以及 BigBrainDevBros 成员共同维护的游戏。主页可以按类别、项目名或技术搜索，也可以直接复制安装命令。
 
