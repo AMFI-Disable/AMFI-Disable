@@ -6,6 +6,11 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ## [Unreleased]
 
+### Documentation
+
+- Added Simplified Chinese project and contribution guides and bilingual feedback templates.
+
+
 ### Added
 
 - **GeoFS_Extension Portfolio Entry**: Replaced legacy `GeoFS-V3.9` ecosystem links with unified [GeoFS_Extension](https://github.com/AMFI-Disable/GeoFS_Extension) Manifest V3 extension entry.
