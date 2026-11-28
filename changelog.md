@@ -6,12 +6,10 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 
 ## [Unreleased]
 
-- Published a bilingual project roadmap with acceptance checks for each area.
-
 ### Documentation
 
+- Published a bilingual project roadmap (`docs/roadmap.md`, `docs/roadmap.zh-cn.md`) with acceptance checks for each area.
 - Added Simplified Chinese project and contribution guides and bilingual feedback templates.
-
 
 ### Added
 
@@ -20,6 +18,8 @@ All notable changes, profile revisions, and portfolio updates for the AMFI-Disab
 - **DustIII Portfolio Entry**: Added [DustIII](https://github.com/AMFI-Disable/DustIII) to the interactive games section, covering its CS2-style bomb defusal ruleset, tactical bot AI, and static Three.js delivery, with a direct link to the live GitHub Pages build.
 
 ### Changed
+
+- Refreshed dark and light hexagonal contribution SVG assets via the scheduled activity graph workflow.
 
 - Refresh the public Star History scope and owner totals from the daily inventory. Link the chess showcase to the standalone practice board.
 
