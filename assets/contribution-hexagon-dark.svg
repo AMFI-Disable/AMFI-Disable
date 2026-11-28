@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="819" height="173" viewBox="0 0 819 173" role="img" aria-label="AMFI-Disable hexagonal contribution graph">
   <rect x="0.5" y="0.5" width="818" height="172" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <text x="24.0" y="28" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@AMFI-Disable · 1,964 contributions in the last year</text>
+  <text x="24.0" y="28" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600">@AMFI-Disable · 2,126 contributions in the last year</text>
   <polygon points="37.81,51.70 37.81,59.10 31.40,62.80 24.99,59.10 24.99,51.70 31.40,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-23: level 0</title></polygon>
   <polygon points="52.23,51.70 52.23,59.10 45.82,62.80 39.41,59.10 39.41,51.70 45.82,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-30: level 0</title></polygon>
   <polygon points="66.64,51.70 66.64,59.10 60.23,62.80 53.83,59.10 53.83,51.70 60.23,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-07: level 0</title></polygon>
@@ -49,11 +49,11 @@
   <polygon points="686.58,51.70 686.58,59.10 680.17,62.80 673.76,59.10 673.76,51.70 680.17,48.00" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-04: level 0</title></polygon>
   <polygon points="701.00,51.70 701.00,59.10 694.59,62.80 688.18,59.10 688.18,51.70 694.59,48.00" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-11: level 3</title></polygon>
   <polygon points="715.42,51.70 715.42,59.10 709.01,62.80 702.60,59.10 702.60,51.70 709.01,48.00" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-18: level 2</title></polygon>
-  <polygon points="729.83,51.70 729.83,59.10 723.42,62.80 717.02,59.10 717.02,51.70 723.42,48.00" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-25: level 3</title></polygon>
+  <polygon points="729.83,51.70 729.83,59.10 723.42,62.80 717.02,59.10 717.02,51.70 723.42,48.00" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-25: level 2</title></polygon>
   <polygon points="744.25,51.70 744.25,59.10 737.84,62.80 731.43,59.10 731.43,51.70 737.84,48.00" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-01: level 2</title></polygon>
-  <polygon points="758.67,51.70 758.67,59.10 752.26,62.80 745.85,59.10 745.85,51.70 752.26,48.00" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-08: level 3</title></polygon>
-  <polygon points="773.08,51.70 773.08,59.10 766.68,62.80 760.27,59.10 760.27,51.70 766.68,48.00" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-15: level 3</title></polygon>
-  <polygon points="787.50,51.70 787.50,59.10 781.09,62.80 774.68,59.10 774.68,51.70 781.09,48.00" fill="#39d353" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-22: level 4</title></polygon>
+  <polygon points="758.67,51.70 758.67,59.10 752.26,62.80 745.85,59.10 745.85,51.70 752.26,48.00" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-08: level 2</title></polygon>
+  <polygon points="773.08,51.70 773.08,59.10 766.68,62.80 760.27,59.10 760.27,51.70 766.68,48.00" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-15: level 2</title></polygon>
+  <polygon points="787.50,51.70 787.50,59.10 781.09,62.80 774.68,59.10 774.68,51.70 781.09,48.00" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-22: level 3</title></polygon>
   <polygon points="45.02,64.40 45.02,71.80 38.61,75.50 32.20,71.80 32.20,64.40 38.61,60.70" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-24: level 0</title></polygon>
   <polygon points="59.43,64.40 59.43,71.80 53.03,75.50 46.62,71.80 46.62,64.40 53.03,60.70" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-01: level 0</title></polygon>
   <polygon points="73.85,64.40 73.85,71.80 67.44,75.50 61.03,71.80 61.03,64.40 67.44,60.70" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-08: level 0</title></polygon>
@@ -100,11 +100,11 @@
   <polygon points="664.96,64.40 664.96,71.80 658.55,75.50 652.14,71.80 652.14,64.40 658.55,60.70" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-09-21: level 0</title></polygon>
   <polygon points="679.37,64.40 679.37,71.80 672.96,75.50 666.56,71.80 666.56,64.40 672.96,60.70" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-09-28: level 1</title></polygon>
   <polygon points="693.79,64.40 693.79,71.80 687.38,75.50 680.97,71.80 680.97,64.40 687.38,60.70" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-05: level 0</title></polygon>
-  <polygon points="708.21,64.40 708.21,71.80 701.80,75.50 695.39,71.80 695.39,64.40 701.80,60.70" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-12: level 2</title></polygon>
+  <polygon points="708.21,64.40 708.21,71.80 701.80,75.50 695.39,71.80 695.39,64.40 701.80,60.70" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-12: level 1</title></polygon>
   <polygon points="722.62,64.40 722.62,71.80 716.22,75.50 709.81,71.80 709.81,64.40 716.22,60.70" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-19: level 1</title></polygon>
-  <polygon points="737.04,64.40 737.04,71.80 730.63,75.50 724.22,71.80 724.22,64.40 730.63,60.70" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-26: level 3</title></polygon>
-  <polygon points="751.46,64.40 751.46,71.80 745.05,75.50 738.64,71.80 738.64,64.40 745.05,60.70" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-02: level 3</title></polygon>
-  <polygon points="765.88,64.40 765.88,71.80 759.47,75.50 753.06,71.80 753.06,64.40 759.47,60.70" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-09: level 3</title></polygon>
+  <polygon points="737.04,64.40 737.04,71.80 730.63,75.50 724.22,71.80 724.22,64.40 730.63,60.70" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-26: level 2</title></polygon>
+  <polygon points="751.46,64.40 751.46,71.80 745.05,75.50 738.64,71.80 738.64,64.40 745.05,60.70" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-02: level 2</title></polygon>
+  <polygon points="765.88,64.40 765.88,71.80 759.47,75.50 753.06,71.80 753.06,64.40 759.47,60.70" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-09: level 2</title></polygon>
   <polygon points="780.29,64.40 780.29,71.80 773.88,75.50 767.48,71.80 767.48,64.40 773.88,60.70" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-16: level 1</title></polygon>
   <polygon points="794.71,64.40 794.71,71.80 788.30,75.50 781.89,71.80 781.89,64.40 788.30,60.70" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-23: level 3</title></polygon>
   <polygon points="37.81,77.10 37.81,84.50 31.40,88.20 24.99,84.50 24.99,77.10 31.40,73.40" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-25: level 0</title></polygon>
@@ -154,12 +154,12 @@
   <polygon points="672.16,77.10 672.16,84.50 665.76,88.20 659.35,84.50 659.35,77.10 665.76,73.40" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-09-29: level 1</title></polygon>
   <polygon points="686.58,77.10 686.58,84.50 680.17,88.20 673.76,84.50 673.76,77.10 680.17,73.40" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-06: level 1</title></polygon>
   <polygon points="701.00,77.10 701.00,84.50 694.59,88.20 688.18,84.50 688.18,77.10 694.59,73.40" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-13: level 1</title></polygon>
-  <polygon points="715.42,77.10 715.42,84.50 709.01,88.20 702.60,84.50 702.60,77.10 709.01,73.40" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-20: level 3</title></polygon>
-  <polygon points="729.83,77.10 729.83,84.50 723.42,88.20 717.02,84.50 717.02,77.10 723.42,73.40" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-27: level 3</title></polygon>
+  <polygon points="715.42,77.10 715.42,84.50 709.01,88.20 702.60,84.50 702.60,77.10 709.01,73.40" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-20: level 2</title></polygon>
+  <polygon points="729.83,77.10 729.83,84.50 723.42,88.20 717.02,84.50 717.02,77.10 723.42,73.40" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-27: level 2</title></polygon>
   <polygon points="744.25,77.10 744.25,84.50 737.84,88.20 731.43,84.50 731.43,77.10 737.84,73.40" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-03: level 1</title></polygon>
-  <polygon points="758.67,77.10 758.67,84.50 752.26,88.20 745.85,84.50 745.85,77.10 752.26,73.40" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-10: level 2</title></polygon>
+  <polygon points="758.67,77.10 758.67,84.50 752.26,88.20 745.85,84.50 745.85,77.10 752.26,73.40" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-10: level 1</title></polygon>
   <polygon points="773.08,77.10 773.08,84.50 766.68,88.20 760.27,84.50 760.27,77.10 766.68,73.40" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-17: level 3</title></polygon>
-  <polygon points="787.50,77.10 787.50,84.50 781.09,88.20 774.68,84.50 774.68,77.10 781.09,73.40" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-24: level 3</title></polygon>
+  <polygon points="787.50,77.10 787.50,84.50 781.09,88.20 774.68,84.50 774.68,77.10 781.09,73.40" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-24: level 2</title></polygon>
   <polygon points="45.02,89.80 45.02,97.20 38.61,100.90 32.20,97.20 32.20,89.80 38.61,86.10" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-26: level 0</title></polygon>
   <polygon points="59.43,89.80 59.43,97.20 53.03,100.90 46.62,97.20 46.62,89.80 53.03,86.10" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-03: level 0</title></polygon>
   <polygon points="73.85,89.80 73.85,97.20 67.44,100.90 61.03,97.20 61.03,89.80 67.44,86.10" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-10: level 0</title></polygon>
@@ -196,7 +196,7 @@
   <polygon points="520.78,89.80 520.78,97.20 514.38,100.90 507.97,97.20 507.97,89.80 514.38,86.10" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-15: level 2</title></polygon>
   <polygon points="535.20,89.80 535.20,97.20 528.79,100.90 522.38,97.20 522.38,89.80 528.79,86.10" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-22: level 2</title></polygon>
   <polygon points="549.62,89.80 549.62,97.20 543.21,100.90 536.80,97.20 536.80,89.80 543.21,86.10" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-29: level 1</title></polygon>
-  <polygon points="564.04,89.80 564.04,97.20 557.63,100.90 551.22,97.20 551.22,89.80 557.63,86.10" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-05: level 2</title></polygon>
+  <polygon points="564.04,89.80 564.04,97.20 557.63,100.90 551.22,97.20 551.22,89.80 557.63,86.10" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-05: level 1</title></polygon>
   <polygon points="578.45,89.80 578.45,97.20 572.04,100.90 565.64,97.20 565.64,89.80 572.04,86.10" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-12: level 0</title></polygon>
   <polygon points="592.87,89.80 592.87,97.20 586.46,100.90 580.05,97.20 580.05,89.80 586.46,86.10" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-19: level 0</title></polygon>
   <polygon points="607.29,89.80 607.29,97.20 600.88,100.90 594.47,97.20 594.47,89.80 600.88,86.10" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-26: level 0</title></polygon>
@@ -249,7 +249,7 @@
   <polygon points="513.58,102.50 513.58,109.90 507.17,113.60 500.76,109.90 500.76,102.50 507.17,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-16: level 2</title></polygon>
   <polygon points="527.99,102.50 527.99,109.90 521.58,113.60 515.18,109.90 515.18,102.50 521.58,98.80" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-23: level 1</title></polygon>
   <polygon points="542.41,102.50 542.41,109.90 536.00,113.60 529.59,109.90 529.59,102.50 536.00,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-30: level 2</title></polygon>
-  <polygon points="556.83,102.50 556.83,109.90 550.42,113.60 544.01,109.90 544.01,102.50 550.42,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-06: level 2</title></polygon>
+  <polygon points="556.83,102.50 556.83,109.90 550.42,113.60 544.01,109.90 544.01,102.50 550.42,98.80" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-06: level 1</title></polygon>
   <polygon points="571.24,102.50 571.24,109.90 564.84,113.60 558.43,109.90 558.43,102.50 564.84,98.80" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-13: level 0</title></polygon>
   <polygon points="585.66,102.50 585.66,109.90 579.25,113.60 572.84,109.90 572.84,102.50 579.25,98.80" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-20: level 0</title></polygon>
   <polygon points="600.08,102.50 600.08,109.90 593.67,113.60 587.26,109.90 587.26,102.50 593.67,98.80" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-27: level 0</title></polygon>
@@ -259,13 +259,13 @@
   <polygon points="657.75,102.50 657.75,109.90 651.34,113.60 644.93,109.90 644.93,102.50 651.34,98.80" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-09-24: level 0</title></polygon>
   <polygon points="672.16,102.50 672.16,109.90 665.76,113.60 659.35,109.90 659.35,102.50 665.76,98.80" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-01: level 1</title></polygon>
   <polygon points="686.58,102.50 686.58,109.90 680.17,113.60 673.76,109.90 673.76,102.50 680.17,98.80" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-08: level 0</title></polygon>
-  <polygon points="701.00,102.50 701.00,109.90 694.59,113.60 688.18,109.90 688.18,102.50 694.59,98.80" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-15: level 3</title></polygon>
+  <polygon points="701.00,102.50 701.00,109.90 694.59,113.60 688.18,109.90 688.18,102.50 694.59,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-15: level 2</title></polygon>
   <polygon points="715.42,102.50 715.42,109.90 709.01,113.60 702.60,109.90 702.60,102.50 709.01,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-22: level 2</title></polygon>
-  <polygon points="729.83,102.50 729.83,109.90 723.42,113.60 717.02,109.90 717.02,102.50 723.42,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-29: level 2</title></polygon>
+  <polygon points="729.83,102.50 729.83,109.90 723.42,113.60 717.02,109.90 717.02,102.50 723.42,98.80" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-29: level 1</title></polygon>
   <polygon points="744.25,102.50 744.25,109.90 737.84,113.60 731.43,109.90 731.43,102.50 737.84,98.80" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-05: level 2</title></polygon>
   <polygon points="758.67,102.50 758.67,109.90 752.26,113.60 745.85,109.90 745.85,102.50 752.26,98.80" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-12: level 1</title></polygon>
   <polygon points="773.08,102.50 773.08,109.90 766.68,113.60 760.27,109.90 760.27,102.50 766.68,98.80" fill="#39d353" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-19: level 4</title></polygon>
-  <polygon points="787.50,102.50 787.50,109.90 781.09,113.60 774.68,109.90 774.68,102.50 781.09,98.80" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-26: level 1</title></polygon>
+  <polygon points="787.50,102.50 787.50,109.90 781.09,113.60 774.68,109.90 774.68,102.50 781.09,98.80" fill="#39d353" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-26: level 4</title></polygon>
   <polygon points="45.02,115.20 45.02,122.60 38.61,126.30 32.20,122.60 32.20,115.20 38.61,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-28: level 0</title></polygon>
   <polygon points="59.43,115.20 59.43,122.60 53.03,126.30 46.62,122.60 46.62,115.20 53.03,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-05: level 0</title></polygon>
   <polygon points="73.85,115.20 73.85,122.60 67.44,126.30 61.03,122.60 61.03,115.20 67.44,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-12: level 0</title></polygon>
@@ -302,7 +302,7 @@
   <polygon points="520.78,115.20 520.78,122.60 514.38,126.30 507.97,122.60 507.97,115.20 514.38,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-17: level 0</title></polygon>
   <polygon points="535.20,115.20 535.20,122.60 528.79,126.30 522.38,122.60 522.38,115.20 528.79,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-24: level 0</title></polygon>
   <polygon points="549.62,115.20 549.62,122.60 543.21,126.30 536.80,122.60 536.80,115.20 543.21,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-07-31: level 0</title></polygon>
-  <polygon points="564.04,115.20 564.04,122.60 557.63,126.30 551.22,122.60 551.22,115.20 557.63,111.50" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-07: level 2</title></polygon>
+  <polygon points="564.04,115.20 564.04,122.60 557.63,126.30 551.22,122.60 551.22,115.20 557.63,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-07: level 1</title></polygon>
   <polygon points="578.45,115.20 578.45,122.60 572.04,126.30 565.64,122.60 565.64,115.20 572.04,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-14: level 0</title></polygon>
   <polygon points="592.87,115.20 592.87,122.60 586.46,126.30 580.05,122.60 580.05,115.20 586.46,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-21: level 0</title></polygon>
   <polygon points="607.29,115.20 607.29,122.60 600.88,126.30 594.47,122.60 594.47,115.20 600.88,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-08-28: level 0</title></polygon>
@@ -311,13 +311,14 @@
   <polygon points="650.54,115.20 650.54,122.60 644.13,126.30 637.72,122.60 637.72,115.20 644.13,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-09-18: level 1</title></polygon>
   <polygon points="664.96,115.20 664.96,122.60 658.55,126.30 652.14,122.60 652.14,115.20 658.55,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-09-25: level 1</title></polygon>
   <polygon points="679.37,115.20 679.37,122.60 672.96,126.30 666.56,122.60 666.56,115.20 672.96,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-02: level 0</title></polygon>
-  <polygon points="693.79,115.20 693.79,122.60 687.38,126.30 680.97,122.60 680.97,115.20 687.38,111.50" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-09: level 2</title></polygon>
-  <polygon points="708.21,115.20 708.21,122.60 701.80,126.30 695.39,122.60 695.39,115.20 701.80,111.50" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-16: level 3</title></polygon>
-  <polygon points="722.62,115.20 722.62,122.60 716.22,126.30 709.81,122.60 709.81,115.20 716.22,111.50" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-23: level 2</title></polygon>
+  <polygon points="693.79,115.20 693.79,122.60 687.38,126.30 680.97,122.60 680.97,115.20 687.38,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-09: level 1</title></polygon>
+  <polygon points="708.21,115.20 708.21,122.60 701.80,126.30 695.39,122.60 695.39,115.20 701.80,111.50" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-16: level 2</title></polygon>
+  <polygon points="722.62,115.20 722.62,122.60 716.22,126.30 709.81,122.60 709.81,115.20 716.22,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-23: level 1</title></polygon>
   <polygon points="737.04,115.20 737.04,122.60 730.63,126.30 724.22,122.60 724.22,115.20 730.63,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-30: level 1</title></polygon>
   <polygon points="751.46,115.20 751.46,122.60 745.05,126.30 738.64,122.60 738.64,115.20 745.05,111.50" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-06: level 0</title></polygon>
   <polygon points="765.88,115.20 765.88,122.60 759.47,126.30 753.06,122.60 753.06,115.20 759.47,111.50" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-13: level 1</title></polygon>
   <polygon points="780.29,115.20 780.29,122.60 773.88,126.30 767.48,122.60 767.48,115.20 773.88,111.50" fill="#39d353" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-20: level 4</title></polygon>
+  <polygon points="794.71,115.20 794.71,122.60 788.30,126.30 781.89,122.60 781.89,115.20 788.30,111.50" fill="#39d353" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-27: level 4</title></polygon>
   <polygon points="37.81,127.90 37.81,135.30 31.40,139.00 24.99,135.30 24.99,127.90 31.40,124.20" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-11-29: level 0</title></polygon>
   <polygon points="52.23,127.90 52.23,135.30 45.82,139.00 39.41,135.30 39.41,127.90 45.82,124.20" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-06: level 0</title></polygon>
   <polygon points="66.64,127.90 66.64,135.30 60.23,139.00 53.83,135.30 53.83,127.90 60.23,124.20" fill="#161b22" stroke="#0b0e14" stroke-width="0.6"><title>2025-12-13: level 0</title></polygon>
@@ -367,9 +368,10 @@
   <polygon points="701.00,127.90 701.00,135.30 694.59,139.00 688.18,135.30 688.18,127.90 694.59,124.20" fill="#26a641" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-17: level 3</title></polygon>
   <polygon points="715.42,127.90 715.42,135.30 709.01,139.00 702.60,135.30 702.60,127.90 709.01,124.20" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-24: level 2</title></polygon>
   <polygon points="729.83,127.90 729.83,135.30 723.42,139.00 717.02,135.30 717.02,127.90 723.42,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-10-31: level 1</title></polygon>
-  <polygon points="744.25,127.90 744.25,135.30 737.84,139.00 731.43,135.30 731.43,127.90 737.84,124.20" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-07: level 2</title></polygon>
+  <polygon points="744.25,127.90 744.25,135.30 737.84,139.00 731.43,135.30 731.43,127.90 737.84,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-07: level 1</title></polygon>
   <polygon points="758.67,127.90 758.67,135.30 752.26,139.00 745.85,135.30 745.85,127.90 752.26,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-14: level 1</title></polygon>
   <polygon points="773.08,127.90 773.08,135.30 766.68,139.00 760.27,135.30 760.27,127.90 766.68,124.20" fill="#0e4429" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-21: level 1</title></polygon>
+  <polygon points="787.50,127.90 787.50,135.30 781.09,139.00 774.68,135.30 774.68,127.90 781.09,124.20" fill="#006d32" stroke="#0b0e14" stroke-width="0.6"><title>2026-11-28: level 2</title></polygon>
   <text x="641.3" y="160.9" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11">Less</text>
   <polygon points="678.52,153.90 678.52,159.90 673.32,162.90 668.12,159.90 668.12,153.90 673.32,150.90" fill="#161b22" stroke="#0b0e14" stroke-width="0.5"/>
   <polygon points="694.52,153.90 694.52,159.90 689.32,162.90 684.12,159.90 684.12,153.90 689.32,150.90" fill="#0e4429" stroke="#0b0e14" stroke-width="0.5"/>
